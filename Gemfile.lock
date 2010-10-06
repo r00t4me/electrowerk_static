@@ -1,0 +1,22 @@
+GIT
+  remote: git://github.com/staticmatic/staticmatic.git
+  revision: 5de53fb27af2292f6a0dff69bf8371b147a325b8
+  specs:
+    staticmatic (0.11.0.alpha.9)
+      compass (>= 0.10.0)
+      haml (>= 2.0.0)
+      rack (>= 1.0)
+
+GEM
+  remote: http://rubygems.org/
+  specs:
+    compass (0.10.5)
+      haml (>= 3.0.4)
+    haml (3.0.21)
+    rack (1.2.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  staticmatic!
